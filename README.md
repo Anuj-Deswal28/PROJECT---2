@@ -8,6 +8,7 @@ This is a Transformer based conversation summarizer , uses hugging face and fast
 * STEP-5 :- in terminal give command [uvcorn app:app --reload] , it will return you a local port that you can open
 
 [**TRAINING ON GPU IS HIGHLY RECOMMENDED**]
+[**main.ipynb should be open and used in jupyter-notebook**]
 [**after training a new folder should be created named as saved_summary_model**]
 
 # 🧠 Conversation Summarizer (T5-small + FastAPI)
